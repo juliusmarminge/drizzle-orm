@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/drizzle-team/drizzle-orm/assets/4045375/33d5d529-a4cf-478f-9b50-0248b64de25a.png#gh-dark-mode-only" />
+  <img src="https://github.com/drizzle-team/drizzle-orm/assets/4045375/972b9713-591c-4b06-a834-9263e85efb53.png#gh-light-mode-only" />
+</p>
+
 <div align="center">
 <h1>Drizzle ORM <a href=""><img alt="npm" src="https://img.shields.io/npm/v/drizzle-orm?label="></a></h1>
 <img alt="npm" src="https://img.shields.io/npm/dm/drizzle-orm">
